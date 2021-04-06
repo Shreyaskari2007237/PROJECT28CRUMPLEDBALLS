@@ -1,7 +1,7 @@
 class Paper{
     constructor(x,y,r){
 
-        var options={
+        var option={
             isStatic=false,
            ' restitution' :0.3,
              'friction': 0.5,
