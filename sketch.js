@@ -22,7 +22,7 @@ function setup() {
 
 	Engine.run(engine);
 
-	paperObject=new Paper(150,300,300,170);
+	paperObject=new Paper(150,300,170);
 
   
 }
